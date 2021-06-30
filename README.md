@@ -1,0 +1,2 @@
+# Stock Prediction and Quantitative Analysis Based on Machine Learning Method
+ This paper studies the intrinsic relationship between the stocks’ multiple factors and the investment value of the stocks listed in China Securities Index (CSI) 800 Index through the machine method. The investment system pipeline has been implemented including data acquirement, data preprocessing, model tuning and selection based on the XGBoost boosted tree model.
