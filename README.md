@@ -8,7 +8,7 @@ The workflow is to use the data of the whole year before the current time as the
 
 
 
-The project composed of report and codes.
+The project composed of report (report.pdf) and codes.
 
 ## Abstract
 
