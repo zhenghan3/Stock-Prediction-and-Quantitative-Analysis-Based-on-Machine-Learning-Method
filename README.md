@@ -96,7 +96,7 @@ The program activity diagram is shown below.
 
 
 
-![image](README.assets/Activity Diagram.png)
+![image](README.assets/Activity%20diagram.png)
 
 ### Document interpretation
 
