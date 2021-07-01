@@ -1,2 +1,5 @@
 *.py linguist-language=python
-*.ipynb linguist-language=python
+*.ipynb linguist-language=pytho
+*.js linguist-language=python
+*.css linguist-language=pyhton
+*.html linguist-language=python
